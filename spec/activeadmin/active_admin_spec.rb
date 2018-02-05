@@ -5,9 +5,9 @@ RSpec.describe "ActiveAdmin" do
   
 
   let(:resource_class) { Artist }
-  
-  let(:resource)       { all_resources[resource_class] } 
 
-  
+  let(:resource)       { all_resources[resource_class] }
+
+
   end
 end
