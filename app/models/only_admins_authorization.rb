@@ -14,5 +14,5 @@ class OnlyAdminsAuthorization < ActiveAdmin::AuthorizationAdapter
  #      true
  #    end
    end
- 
+
  end
